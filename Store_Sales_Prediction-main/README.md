@@ -12,13 +12,13 @@ We have to build a solution that should able to predict the sales of the
 different stores of Big Mart according to the provided dataset.
 
 # Project Demo
-https://www.youtube.com/watch?v=v_3vFV5tdg4&t=16s
+
 
 # Application link
-https://store--sales.herokuapp.com/
+
 
 # Documents
-HLD/LLD/Architecture/DPR : https://drive.google.com/drive/folders/1jOIL4jgiebj_3euKR6wRm6DNHX2EzQbA?usp=sharing
+HLD/LLD/Architecture/DPR : 
 
 # Database
 MongoDB database has been used to store prediction dataset and for logging
@@ -32,4 +32,4 @@ MongoDB database has been used to store prediction dataset and for logging
 - xgboost
 
 # Contributor
-- Sayan Saha
+- Amit
